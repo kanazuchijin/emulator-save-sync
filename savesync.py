@@ -1,20 +1,14 @@
 #!/usr/bin/env python3
 """
-Sync emulator save files into a single central directory (NAS).
+This script synchronizes local emulator save files with a central *NAS* directory. This two-stage design ensures consistent behavior across Windows, Linux, and Steam Deck, and avoids direct file thrashing between multiple clients. Key features:
+- Only overwrites destination if logic decides source is "newer."
+- Uses content hashing (SHA-256) + timestamp with skew allowance; it, does NOT rely purely on timestamps to detect changes.
+- Handles potential conflicts by keeping backups with hostname + timestamp.
+- Safe by default: never deletes anything, just copies/updates and keeps conflict backups when in doubt.
 
-- Cross-platform: Windows / Linux / Steam Deck
-- Two-way behavior via running both:
-    1) local emulator saves  -> central NAS
-    2) central NAS           -> local emulator saves
-- Only overwrites destination if logic decides source is "newer"
-- Uses content hashing + timestamp with skew allowance; thus, does not rely on timestamps to determine newer files
-- Handles potential conflicts by keeping backups with hostname + timestamp
-- Safe by default: never deletes anything, just copies/updates
-  and keeps conflict backups when in doubt.
-
-Edit the CONFIG section below to match your setup. For example, my paths are:
-- Windows:              D:\Emulation\saves
-- Linux/Steam Deck:     /mnt/nasemulation/saves
+The sync flow is local device ↔ NAS-location. Each machine runs this script, which performs the following steps in order:
+    1) Local emulator save dirs -> NAS central directory
+    2) NAS central directory    -> Local emulator saves dirs
 
 How this handles conflicts:
 - Step 1: Hash check first.
@@ -26,13 +20,17 @@ How this handles conflicts:
     - If mtimes are close (within skew allowance), that usually means:
         - Both changed around the same time, or
         - Clock skew is large enough, so don't trust the ordering.
-    In that case:
+    - In that case:
         - Copy the source over the destination (so sync still happens),
         - But first save a conflict backup of the overwritten file.
 
+Edit the CONFIG section below to match your setup. For example, my paths are:
+- Local central directory on Windows:           E:\saves_backup
+- NAS central directory on Linux/Steam Deck:    /mnt/nasemulation/saves_backup
+
 Run with:
     python savesync.py           # normal
-    python savesync.py --dry-run # no actual copying, but returns what would happen
+    python savesync.py --dry-run # no actual copying, just logs
 """
 
 from __future__ import annotations
@@ -55,12 +53,11 @@ import time
 # Example Windows:  r"D:/Emulation/saves"
 # Example Linux:    "/mnt/nasemulation/saves" or "~/Emulation/saves"
 
-def get_central_save_root() -> Path:
+def get_central_nas_root() -> Path:
     """
-    Return the central NAS save root for this OS.
-
-    Windows: E:\\saves_backup
-    Linux/Steam Deck: /mnt/nasemulation/saves_backup
+    Return the central NAS save root for this OS. For example:
+      - Windows: E:\saves_backup
+      - Linux/Steam Deck: /mnt/nasemulation/saves_backup
     """
     system = platform.system().lower()
     if system == "windows":
@@ -71,7 +68,6 @@ def get_central_save_root() -> Path:
 # How much clock skew (seconds) we tolerate before trusting
 # "newer timestamp wins". Inside this window we treat it as a
 # potential conflict and keep a backup of the overwritten file.
-
 SKEW_ALLOWANCE_SECONDS = 300  # 5 minutes
 
 
@@ -295,7 +291,7 @@ def main(argv: List[str]) -> int:
     )
     args = parser.parse_args(argv)
 
-    central = get_central_save_root()
+    central = get_central_nas_root()
     central.mkdir(parents=True, exist_ok=True)
 
     print(f"Central save root: {central}")
