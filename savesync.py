@@ -117,15 +117,16 @@ def get_save_sources() -> List[SaveSource]:
             SaveSource("retroarch_states", Path("~/.config/retroarch/states").expanduser()),
         ]
 
-        # Dolphin
-        dolphin_root = Path("~/.local/share/dolphin-emu").expanduser()
+        # Dolphin (EmuDeck / Flatpak target paths)
+        dolphin_root = Path("/home/deck/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu")
         sources += [
             SaveSource("dolphin_gc", dolphin_root / "GC"),
             SaveSource("dolphin_wii", dolphin_root / "Wii"),
+            SaveSource("dolphin_states", dolphin_root / "StateSaves"),
         ]
 
-        # Cemu (Flatpak)
-        cemu_root = Path("~/.var/app/info.cemu.Cemu/data/cemu").expanduser()
+        # Cemu (EmuDeck)
+        cemu_root = Path("~/Emulation/roms/wiiu").expanduser()
         sources.append(SaveSource("cemu_wiiu", cemu_root / "mlc01" / "usr" / "save"))
 
         # Add Deck-specific or other emulators here if you like.
