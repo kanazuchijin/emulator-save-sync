@@ -111,10 +111,11 @@ def get_save_sources() -> List[SaveSource]:
     else:
         # ---- LINUX / STEAM DECK PATHS (edit as needed) ---- #
 
-        # RetroArch (flatpak or native) – common locations:
+        # RetroArch (EmuDeck / Flatpak target paths)
+        retro_root = Path("/home/deck/.var/app/org.libretro.RetroArch/config/retroarch")
         sources += [
-            SaveSource("retroarch_saves", Path("~/.config/retroarch/saves").expanduser()),
-            SaveSource("retroarch_states", Path("~/.config/retroarch/states").expanduser()),
+            SaveSource("retroarch_saves", retro_root / "saves"),
+            SaveSource("retroarch_states", retro_root / "states"),
         ]
 
         # Dolphin (EmuDeck / Flatpak target paths)
