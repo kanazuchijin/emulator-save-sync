@@ -146,6 +146,14 @@ def get_save_sources() -> List[SaveSource]:
 # ===================================================================== #
 # ---------------------- HELPER / CONFLICT LOGIC ---------------------- #
 # ===================================================================== #
+def copy_file_nfs_safe(src: Path, dst: Path) -> None:
+    """
+    Copy file contents without failing on NFS metadata operations.
+    Many NFS servers allow writing file contents but reject setting atime/mtime from clients.
+    """
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(src, dst)   # content only
+
 def sha256_of_file(path: Path) -> str:
     """Return SHA-256 hex digest of a file."""
     h = hashlib.sha256()
@@ -178,7 +186,8 @@ def copy_with_smart_conflict(src: Path, dst: Path, dry_run: bool = False) -> boo
         print(f"  -> {dst}  (from {src}) [new file]")
         if not dry_run:
             dst.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(src, dst)
+            #shutil.copy2(src, dst)
+            copy_file_nfs_safe(src, dst)
         return True
 
     # Both exist: check contents first
@@ -200,7 +209,8 @@ def copy_with_smart_conflict(src: Path, dst: Path, dry_run: bool = False) -> boo
             print(f"  -> {dst}  (from {src}) [src newer]")
             if not dry_run:
                 dst.parent.mkdir(parents=True, exist_ok=True)
-                shutil.copy2(src, dst)
+                #shutil.copy2(src, dst)
+                copy_file_nfs_safe(src, dst)
             return True
         else:
             # Destination clearly newer – do nothing.
@@ -218,8 +228,10 @@ def copy_with_smart_conflict(src: Path, dst: Path, dry_run: bool = False) -> boo
 
     if not dry_run:
         dst.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(dst, conflict_path)
-        shutil.copy2(src, dst)
+        #shutil.copy2(dst, conflict_path)
+        copy_file_nfs_safe(dst, conflict_path)
+        #shutil.copy2(src, dst)
+        copy_file_nfs_safe(src, dst)
 
     return True
 
