@@ -1,0 +1,157 @@
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+All done in 6.4 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  -> D:\SteamLibrary\steamapps\common\RetroArch\saves\Star Fox.srm  (from E:\saves_backup\retroarch_saves\Star Fox.srm) [new file]
+  Done: 1 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Battletoads.state  (from E:\saves_backup\retroarch_states\Battletoads.state) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Battletoads.state.png  (from E:\saves_backup\retroarch_states\Battletoads.state.png) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Dr Mario.state  (from E:\saves_backup\retroarch_states\Dr Mario.state) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Dr Mario.state.png  (from E:\saves_backup\retroarch_states\Dr Mario.state.png) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Star Fox.state  (from E:\saves_backup\retroarch_states\Star Fox.state) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Star Fox.state.png  (from E:\saves_backup\retroarch_states\Star Fox.state.png) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Tetris.state  (from E:\saves_backup\retroarch_states\Tetris.state) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Tetris.state.png  (from E:\saves_backup\retroarch_states\Tetris.state.png) [new file]
+  Done: 8 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\GC\SRAM.raw  (from E:\saves_backup\dolphin_gc\SRAM.raw) [src newer]
+  Done: 1 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\fst.bin  (from E:\saves_backup\dolphin_wii\fst.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\sys\uid.sys  (from E:\saves_backup\dolphin_wii\sys\uid.sys) [src newer]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00000001\00000002\data\play_rec.dat  (from E:\saves_backup\dolphin_wii\title\00000001\00000002\data\play_rec.dat) [src newer]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\content\title.tmd  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\content\title.tmd) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\64_k64_sdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\64_k64_sdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\banner.bin  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\banner.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\FC_yume_qdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\FC_yume_qdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\FC_yume_sdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\FC_yume_sdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\GB_kby1_qdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\GB_kby1_qdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\GB_kby2_qdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\GB_kby2_qdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\GB_kby2_sdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\GB_kby2_sdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\ghost1.dat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\ghost1.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\ghost2.dat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\ghost2.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\ghost3.dat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\ghost3.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\savedata.dat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\savedata.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\SF_kby3_qdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\SF_kby3_qdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\SF_kby3_sdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\SF_kby3_sdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\SF_sdx_qdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\SF_sdx_qdat) [new file]
+  -> C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii\title\00010000\53373245\data\SF_sdx_sdat  (from E:\saves_backup\dolphin_wii\title\00010000\53373245\data\SF_sdx_sdat) [new file]
+  Done: 19 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+All done in 13.8 seconds.

@@ -105,8 +105,9 @@ def get_save_sources() -> List[SaveSource]:
         cemu_root = Path(r"D:/Emulation/cemu")
         sources.append(SaveSource("cemu_wiiu", cemu_root / "mlc01" / "usr" / "save"))
 
-        # Add more here if you want:
-        # sources.append(SaveSource("pcsx2", Path(r"D:/Emulation/pcsx2/memcards")))
+        # Ryujinx - Switch saves
+        ryujinx_root = Path(r"C:/Users/B/AppData/Roaming/Ryujinx")
+        sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis" / "user"))
 
     else:
         # ---- LINUX / STEAM DECK PATHS (edit as needed) ---- #
@@ -130,7 +131,9 @@ def get_save_sources() -> List[SaveSource]:
         cemu_root = Path("~/Emulation/roms/wiiu").expanduser()
         sources.append(SaveSource("cemu_wiiu", cemu_root / "mlc01" / "usr" / "save"))
 
-        # Add Deck-specific or other emulators here if you like.
+        # Ryujinx (EmuDeck)
+        ryujinx_root = Path("~/.config/Ryujinx")
+        sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis" / "user"))
 
     # Filter out non-existent dirs so the script doesn't crash
     existing = [s for s in sources if s.path.is_dir()]
