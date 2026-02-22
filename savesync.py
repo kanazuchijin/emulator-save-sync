@@ -132,8 +132,10 @@ def get_save_sources() -> List[SaveSource]:
         sources.append(SaveSource("cemu_wiiu", cemu_root / "mlc01" / "usr" / "save"))
 
         # Ryujinx (EmuDeck)
-        ryujinx_root = Path("~/.config/Ryujinx")
+        ryujinx_root = Path("~/.config/Ryujinx").expanduser()
         sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis" / "user"))
+        #ryujinx_root = Path("~/Emulation/saves/ryujinx")
+        #sources.append(SaveSource("ryujinx_switch", ryujinx_root))
 
     # Filter out non-existent dirs so the script doesn't crash
     existing = [s for s in sources if s.path.is_dir()]
