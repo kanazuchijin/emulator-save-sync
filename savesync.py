@@ -107,7 +107,7 @@ def get_save_sources() -> List[SaveSource]:
 
         # Ryujinx - Switch saves
         ryujinx_root = Path(r"C:/Users/B/AppData/Roaming/Ryujinx")
-        sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis" / "user"))
+        sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis"))
 
     else:
         # ---- LINUX / STEAM DECK PATHS (edit as needed) ---- #
@@ -133,7 +133,7 @@ def get_save_sources() -> List[SaveSource]:
 
         # Ryujinx (EmuDeck)
         ryujinx_root = Path("~/.config/Ryujinx").expanduser()
-        sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis" / "user"))
+        sources.append(SaveSource("ryujinx_switch", ryujinx_root / "bis"))
         #ryujinx_root = Path("~/Emulation/saves/ryujinx")
         #sources.append(SaveSource("ryujinx_switch", ryujinx_root))
 
