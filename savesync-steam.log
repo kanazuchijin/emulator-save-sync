@@ -155,3 +155,1049 @@ Mode:        LIVE
   Done: 0 file(s) copied/updated.
 
 All done in 13.8 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\0\imkvdb.arc  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\0\imkvdb.arc) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\0\lastPublishedId  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\0\lastPublishedId) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\1\imkvdb.arc  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\1\imkvdb.arc) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\1\lastPublishedId  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\1\lastPublishedId) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\0\profile0\common.bmssv  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\0\profile0\common.bmssv) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\0\profile0\pkprfl.bmssv  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\0\profile0\pkprfl.bmssv) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\0\profile0\samus.bmssv  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\0\profile0\samus.bmssv) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\1\profile0\common.bmssv  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\1\profile0\common.bmssv) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\1\profile0\pkprfl.bmssv  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\1\profile0\pkprfl.bmssv) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\1\profile0\samus.bmssv  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000001\1\profile0\samus.bmssv) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\.lock  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\.lock) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\ExtraData0) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\ExtraData1) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\album\000_Photo.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\album\000_Photo.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\album\000_Thumb.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\album\000_Thumb.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\album\001_Photo.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\album\001_Photo.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\album\001_Thumb.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\album\001_Thumb.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\album\002_Photo.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\album\002_Photo.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\album\002_Thumb.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\album\002_Thumb.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_00\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_00\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_00\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_00\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_00\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_00\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_00\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_00\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_01\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_01\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_01\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_01\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_01\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_01\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_01\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_01\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_02\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_02\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_02\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_02\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_02\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_02\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_02\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_02\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_03\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_03\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_03\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_03\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_03\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_03\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_03\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_03\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_04\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_04\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_04\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_04\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_04\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_04\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\slot_04\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\slot_04\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\0\storage\CacheStorageKey.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\0\storage\CacheStorageKey.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\album\000_Photo.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\album\000_Photo.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\album\000_Thumb.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\album\000_Thumb.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\album\001_Photo.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\album\001_Photo.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\album\001_Thumb.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\album\001_Thumb.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\album\002_Photo.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\album\002_Photo.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\album\002_Thumb.jpg  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\album\002_Thumb.jpg) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_00\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_00\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_00\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_00\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_00\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_00\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_00\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_00\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_01\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_01\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_01\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_01\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_01\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_01\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_01\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_01\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_02\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_02\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_02\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_02\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_02\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_02\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_02\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_02\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_03\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_03\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_03\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_03\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_03\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_03\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_03\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_03\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_04\caption.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_04\caption.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_04\direct_file_save_related.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_04\direct_file_save_related.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_04\footprint.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_04\footprint.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\slot_04\progress.sav  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\slot_04\progress.sav) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000005\1\storage\CacheStorageKey.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000005\1\storage\CacheStorageKey.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\.lock  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\.lock) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData0) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData1) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata0.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata3.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot0.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot3.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata0.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata3.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot0.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot3.bin) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\.lock  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\.lock) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\.lock  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\.lock) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp04100050030e4db037300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp04100050030e4db037300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp05120050030dae87f7e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp05120050030dae87f7e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp061400500300a63f6be00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp061400500300a63f6be00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp071500500301571a53800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp071500500301571a53800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp081a0050030a8b78c8800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp081a0050030a8b78c8800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp091d0050030a2f46a4800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp091d0050030a2f46a4800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0a190050030b9afd43d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0a190050030b9afd43d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0b180050030c8316cd800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0b180050030c8316cd800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp104703102385ffda6b900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp104703102385ffda6b900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp114403102385c66822700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp114403102385c66822700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp124a0310238863718b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp124a0310238863718b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp134503102388127192700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp134503102388127192700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp04100050030e4db037300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp04100050030e4db037300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp05120050030dae87f7e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp05120050030dae87f7e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp061400500300a63f6be00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp061400500300a63f6be00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp071500500301571a53800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp071500500301571a53800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp081a0050030a8b78c8800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp081a0050030a8b78c8800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp091d0050030a2f46a4800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp091d0050030a2f46a4800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0a190050030b9afd43d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0a190050030b9afd43d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0b180050030c8316cd800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0b180050030c8316cd800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp104703102385ffda6b900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp104703102385ffda6b900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp114403102385c66822700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp114403102385c66822700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp124a0310238863718b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp124a0310238863718b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp134503102388127192700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp134503102388127192700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000009\.lock  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000009\.lock) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000009\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000009\ExtraData0) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000009\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000009\ExtraData1) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000009\0\rp_savedata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000009\0\rp_savedata.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000009\1\rp_savedata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000009\1\rp_savedata.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\saveMeta\0000000000000005\00000001.meta  (from E:\saves_backup\ryujinx_switch\user\saveMeta\0000000000000005\00000001.meta) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\saveMeta\0000000000000006\00000001.meta  (from E:\saves_backup\ryujinx_switch\user\saveMeta\0000000000000006\00000001.meta) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\saveMeta\0000000000000007\00000001.meta  (from E:\saves_backup\ryujinx_switch\user\saveMeta\0000000000000007\00000001.meta) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\saveMeta\0000000000000008\00000001.meta  (from E:\saves_backup\ryujinx_switch\user\saveMeta\0000000000000008\00000001.meta) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\saveMeta\0000000000000009\00000001.meta  (from E:\saves_backup\ryujinx_switch\user\saveMeta\0000000000000009\00000001.meta) [new file]
+  Done: 124 file(s) copied/updated.
+
+All done in 57.0 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  -> E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata3.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot3.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata3.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot3.bin) [src newer]
+  Done: 12 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+All done in 58.5 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  -> E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\0\profile0\common.bmssv  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\0\profile0\common.bmssv) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\0\profile0\pkprfl.bmssv  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\0\profile0\pkprfl.bmssv) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\0\profile0\samus.bmssv  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\0\profile0\samus.bmssv) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\1\profile0\common.bmssv  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\1\profile0\common.bmssv) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\1\profile0\pkprfl.bmssv  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\1\profile0\pkprfl.bmssv) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000001\1\profile0\samus.bmssv  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000001\1\profile0\samus.bmssv) [src newer]
+  Done: 10 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+All done in 58.8 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  -> D:\SteamLibrary\steamapps\common\RetroArch\saves\Star Fox.srm  (from E:\saves_backup\retroarch_saves\Star Fox.srm) [src newer]
+  Done: 1 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Star Fox.state  (from E:\saves_backup\retroarch_states\Star Fox.state) [src newer]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Star Fox.state.png  (from E:\saves_backup\retroarch_states\Star Fox.state.png) [src newer]
+  Done: 2 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata0.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot0.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata0.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot0.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot0.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\ghostlist.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\ghostlist.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\rp0035005003020e8d3bb00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\rp0035005003020e8d3bb00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\rp0132005003002195e9b00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\rp0132005003002195e9b00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\rp0231005003000ad87f500000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\rp0231005003000ad87f500000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\rp033400500301d33f47300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\rp033400500301d33f47300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\sg15.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\sg15.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\ghostlist.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\ghostlist.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\rp0035005003020e8d3bb00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\rp0035005003020e8d3bb00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\rp0132005003002195e9b00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\rp0132005003002195e9b00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\rp0231005003000ad87f500000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\rp0231005003000ad87f500000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\rp033400500301d33f47300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\rp033400500301d33f47300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\sg15.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\sg15.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp003800500303beaa5e800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp003800500303beaa5e800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp01350050030434f571d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp01350050030434f571d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp023200500301021f0cd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp023200500301021f0cd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp03310050030f85e76fd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp03310050030f85e76fd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp043800500302f07ea5300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp043800500302f07ea5300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp051f0252035b21508e700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp051f0252035b21508e700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp063d00500308760b98e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp063d00500308760b98e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp073e00500303028713700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp073e00500303028713700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp083600500302dc36ae700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp083600500302dc36ae700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp193a005003020de8b0200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp193a005003020de8b0200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1a370050030ff410db800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1a370050030ff410db800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1b330050030f78d68b700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1b330050030f78d68b700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp003800500303beaa5e800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp003800500303beaa5e800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp01350050030434f571d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp01350050030434f571d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp023200500301021f0cd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp023200500301021f0cd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp03310050030f85e76fd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp03310050030f85e76fd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp043800500302f07ea5300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp043800500302f07ea5300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp051f0252035b21508e700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp051f0252035b21508e700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp063d00500308760b98e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp063d00500308760b98e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp073e00500303028713700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp073e00500303028713700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp083600500302dc36ae700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp083600500302dc36ae700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp193a005003020de8b0200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp193a005003020de8b0200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1a370050030ff410db800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1a370050030ff410db800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1b330050030f78d68b700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1b330050030f78d68b700000.dat) [new file]
+  Done: 54 file(s) copied/updated.
+
+All done in 55.5 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  -> E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata3.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot3.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata3.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot0.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot0.bin) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot3.bin  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot3.bin) [src newer]
+  Done: 12 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+All done in 53.6 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  -> D:\SteamLibrary\steamapps\common\RetroArch\saves\Lufia & The Fortress of Doom.srm  (from E:\saves_backup\retroarch_saves\Lufia & The Fortress of Doom.srm) [new file]
+  Done: 1 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Lufia & The Fortress of Doom.state  (from E:\saves_backup\retroarch_states\Lufia & The Fortress of Doom.state) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Lufia & The Fortress of Doom.state.png  (from E:\saves_backup\retroarch_states\Lufia & The Fortress of Doom.state.png) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Lufia & The Fortress of Doom.state1  (from E:\saves_backup\retroarch_states\Lufia & The Fortress of Doom.state1) [new file]
+  -> D:\SteamLibrary\steamapps\common\RetroArch\states\Lufia & The Fortress of Doom.state1.png  (from E:\saves_backup\retroarch_states\Lufia & The Fortress of Doom.state1.png) [new file]
+  Done: 4 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0
+     Keeping backup at E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0.conflict-HammerDesktop-1772231861
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1
+     Keeping backup at E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1.conflict-HammerDesktop-1772231861
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0
+     Keeping backup at E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0.conflict-HammerDesktop-1772231865
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData0
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1
+     Keeping backup at E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1.conflict-HammerDesktop-1772231866
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData1
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat
+     Keeping backup at E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat.conflict-HammerDesktop-1772231866
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat
+     Keeping backup at E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat.conflict-HammerDesktop-1772231867
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0
+     Keeping backup at E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0.conflict-HammerDesktop-1772231867
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData0
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1
+     Keeping backup at E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1.conflict-HammerDesktop-1772231867
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData1
+  Done: 8 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0.conflict-HammerDesktop-1772231861  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0.conflict-HammerDesktop-1772231861) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1.conflict-HammerDesktop-1772231861  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1.conflict-HammerDesktop-1772231861) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData0.conflict-HammerDesktop-1772231865  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0.conflict-HammerDesktop-1772231865) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData1.conflict-HammerDesktop-1772231866  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1.conflict-HammerDesktop-1772231866) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat.conflict-HammerDesktop-1772231866  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat.conflict-HammerDesktop-1772231866) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat.conflict-HammerDesktop-1772231867  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat.conflict-HammerDesktop-1772231867) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData0.conflict-HammerDesktop-1772231867  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0.conflict-HammerDesktop-1772231867) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData1.conflict-HammerDesktop-1772231867  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1.conflict-HammerDesktop-1772231867) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp043800500302f07ea5300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp043800500302f07ea5300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp051f0252035b21508e700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp051f0252035b21508e700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp063d00500308760b98e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp063d00500308760b98e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp073e00500303028713700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp073e00500303028713700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp083600500302dc36ae700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp083600500302dc36ae700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0a240050030df99e32b00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0a240050030df99e32b00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0b2100500304eed53fa00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0b2100500304eed53fa00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp10230050030e4a2ab5200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp10230050030e4a2ab5200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp104703102385ffda6b900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp104703102385ffda6b900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp112a005003007dd0d3900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp112a005003007dd0d3900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp114403102385c66822700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp114403102385c66822700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1229005003001a2552000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1229005003001a2552000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp124a0310238863718b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp124a0310238863718b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp13220050030c54d768f00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp13220050030c54d768f00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp134503102388127192700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp134503102388127192700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp14200050030b99170e100000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp14200050030b99170e100000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp193a005003020de8b0200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp193a005003020de8b0200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1a370050030ff410db800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1a370050030ff410db800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1b330050030f78d68b700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1b330050030f78d68b700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp043800500302f07ea5300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp043800500302f07ea5300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp051f0252035b21508e700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp051f0252035b21508e700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp063d00500308760b98e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp063d00500308760b98e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp073e00500303028713700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp073e00500303028713700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp083600500302dc36ae700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp083600500302dc36ae700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0a240050030df99e32b00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0a240050030df99e32b00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0b2100500304eed53fa00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0b2100500304eed53fa00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp10230050030e4a2ab5200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp10230050030e4a2ab5200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp104703102385ffda6b900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp104703102385ffda6b900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp112a005003007dd0d3900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp112a005003007dd0d3900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp114403102385c66822700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp114403102385c66822700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1229005003001a2552000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1229005003001a2552000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp124a0310238863718b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp124a0310238863718b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp13220050030c54d768f00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp13220050030c54d768f00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp134503102388127192700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp134503102388127192700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp14200050030b99170e100000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp14200050030b99170e100000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp193a005003020de8b0200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp193a005003020de8b0200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1a370050030ff410db800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1a370050030ff410db800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1b330050030f78d68b700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1b330050030f78d68b700000.dat) [new file]
+  Done: 46 file(s) copied/updated.
+
+All done in 62.3 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0
+     Keeping backup at E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0.conflict-HammerDesktop-1772236128
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0
+  !! Possible conflict on E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1
+     Keeping backup at E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1.conflict-HammerDesktop-1772236128
+     Overwriting with C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\ghostlist.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\ghostlist.dat) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\sg29.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\sg29.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\ghostlist.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\ghostlist.dat) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\sg29.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\sg29.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData0) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData1) [src newer]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp002c0050030c0106d2b00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp002c0050030c0106d2b00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp012b0050030ab0ab5f000000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp012b0050030ab0ab5f000000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp02280050030a16dfe5600000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp02280050030a16dfe5600000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp032f00500308d7fe46500000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp032f00500308d7fe46500000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp142900500308a512c2800000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp142900500308a512c2800000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp15220050030389e4eba00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp15220050030389e4eba00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp162000500302766b8cc00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp162000500302766b8cc00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp172e005003051894afe00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp172e005003051894afe00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp182500500302bc9500e00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp182500500302bc9500e00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp19270050030332aa46e00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp19270050030332aa46e00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1a2d00500304d08f55700000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1a2d00500304d08f55700000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1b2d0252035b21508e700000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1b2d0252035b21508e700000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp002c0050030c0106d2b00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp002c0050030c0106d2b00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp012b0050030ab0ab5f000000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp012b0050030ab0ab5f000000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp02280050030a16dfe5600000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp02280050030a16dfe5600000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp032f00500308d7fe46500000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp032f00500308d7fe46500000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp142900500308a512c2800000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp142900500308a512c2800000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp15220050030389e4eba00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp15220050030389e4eba00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp162000500302766b8cc00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp162000500302766b8cc00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp172e005003051894afe00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp172e005003051894afe00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp182500500302bc9500e00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp182500500302bc9500e00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp19270050030332aa46e00000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp19270050030332aa46e00000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1a2d00500304d08f55700000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1a2d00500304d08f55700000.dat) [new file]
+  -> E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1b2d0252035b21508e700000.dat  (from C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1b2d0252035b21508e700000.dat) [new file]
+  Done: 36 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0.conflict-HammerDesktop-1772236128  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0.conflict-HammerDesktop-1772236128) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1.conflict-HammerDesktop-1772236128  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1.conflict-HammerDesktop-1772236128) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat.conflict-HammerDesktop-1772231866  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat.conflict-HammerDesktop-1772231866) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat.conflict-HammerDesktop-1772231867  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat.conflict-HammerDesktop-1772231867) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp003800500303beaa5e800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp003800500303beaa5e800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp01350050030434f571d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp01350050030434f571d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp023200500301021f0cd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp023200500301021f0cd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp03310050030f85e76fd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp03310050030f85e76fd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp04100050030e4db037300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp04100050030e4db037300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp043800500302f07ea5300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp043800500302f07ea5300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp05120050030dae87f7e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp05120050030dae87f7e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp051f0252035b21508e700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp051f0252035b21508e700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp061400500300a63f6be00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp061400500300a63f6be00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp063d00500308760b98e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp063d00500308760b98e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp071500500301571a53800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp071500500301571a53800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp073e00500303028713700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp073e00500303028713700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp081a0050030a8b78c8800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp081a0050030a8b78c8800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp083600500302dc36ae700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp083600500302dc36ae700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp091d0050030a2f46a4800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp091d0050030a2f46a4800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0a190050030b9afd43d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0a190050030b9afd43d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0a240050030df99e32b00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0a240050030df99e32b00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0b180050030c8316cd800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0b180050030c8316cd800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0b2100500304eed53fa00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0b2100500304eed53fa00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp10230050030e4a2ab5200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp10230050030e4a2ab5200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp104703102385ffda6b900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp104703102385ffda6b900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp112a005003007dd0d3900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp112a005003007dd0d3900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp114403102385c66822700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp114403102385c66822700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1229005003001a2552000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1229005003001a2552000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp124a0310238863718b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp124a0310238863718b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp13220050030c54d768f00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp13220050030c54d768f00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp134503102388127192700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp134503102388127192700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp14200050030b99170e100000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp14200050030b99170e100000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp193a005003020de8b0200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp193a005003020de8b0200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1a370050030ff410db800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1a370050030ff410db800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1b330050030f78d68b700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1b330050030f78d68b700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp003800500303beaa5e800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp003800500303beaa5e800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp01350050030434f571d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp01350050030434f571d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp023200500301021f0cd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp023200500301021f0cd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp03310050030f85e76fd00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp03310050030f85e76fd00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp04100050030e4db037300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp04100050030e4db037300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp043800500302f07ea5300000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp043800500302f07ea5300000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp05120050030dae87f7e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp05120050030dae87f7e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp051f0252035b21508e700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp051f0252035b21508e700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp061400500300a63f6be00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp061400500300a63f6be00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp063d00500308760b98e00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp063d00500308760b98e00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp071500500301571a53800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp071500500301571a53800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp073e00500303028713700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp073e00500303028713700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp081a0050030a8b78c8800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp081a0050030a8b78c8800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp083600500302dc36ae700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp083600500302dc36ae700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp091d0050030a2f46a4800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp091d0050030a2f46a4800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0a190050030b9afd43d00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0a190050030b9afd43d00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0a240050030df99e32b00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0a240050030df99e32b00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0b180050030c8316cd800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0b180050030c8316cd800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0b2100500304eed53fa00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0b2100500304eed53fa00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp10230050030e4a2ab5200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp10230050030e4a2ab5200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp104703102385ffda6b900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp104703102385ffda6b900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp112a005003007dd0d3900000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp112a005003007dd0d3900000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp114403102385c66822700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp114403102385c66822700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1229005003001a2552000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1229005003001a2552000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp124a0310238863718b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp124a0310238863718b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp13220050030c54d768f00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp13220050030c54d768f00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp134503102388127192700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp134503102388127192700000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp14200050030b99170e100000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp14200050030b99170e100000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp193a005003020de8b0200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp193a005003020de8b0200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1a370050030ff410db800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1a370050030ff410db800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1b330050030f78d68b700000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1b330050030f78d68b700000.dat) [new file]
+  Done: 66 file(s) copied/updated.
+
+All done in 56.6 seconds.
+Central save root: E:\saves_backup
+Platform: Windows (Windows-10-10.0.26200-SP0)
+
+=== Pushing retroarch_saves -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\saves
+Destination: E:\saves_backup\retroarch_saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_saves ===
+Source:      E:\saves_backup\retroarch_saves
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\saves
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing retroarch_states -> NAS ===
+Source:      D:\SteamLibrary\steamapps\common\RetroArch\states
+Destination: E:\saves_backup\retroarch_states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> retroarch_states ===
+Source:      E:\saves_backup\retroarch_states
+Destination: D:\SteamLibrary\steamapps\common\RetroArch\states
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_gc -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Destination: E:\saves_backup\dolphin_gc
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_gc ===
+Source:      E:\saves_backup\dolphin_gc
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\GC
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing dolphin_wii -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Destination: E:\saves_backup\dolphin_wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> dolphin_wii ===
+Source:      E:\saves_backup\dolphin_wii
+Destination: C:\Users\B\AppData\Roaming\Dolphin Emulator\Wii
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing cemu_wiiu -> NAS ===
+Source:      D:\Emulation\cemu\mlc01\usr\save
+Destination: E:\saves_backup\cemu_wiiu
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> cemu_wiiu ===
+Source:      E:\saves_backup\cemu_wiiu
+Destination: D:\Emulation\cemu\mlc01\usr\save
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pushing ryujinx_switch -> NAS ===
+Source:      C:\Users\B\AppData\Roaming\Ryujinx\bis
+Destination: E:\saves_backup\ryujinx_switch
+Mode:        LIVE
+  Done: 0 file(s) copied/updated.
+
+=== Pulling NAS -> ryujinx_switch ===
+Source:      E:\saves_backup\ryujinx_switch
+Destination: C:\Users\B\AppData\Roaming\Ryujinx\bis
+Mode:        LIVE
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData0.conflict-bryan-decky-1772341618  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData0.conflict-bryan-decky-1772341618) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\system\save\8000000000000000\ExtraData1.conflict-bryan-decky-1772341618  (from E:\saves_backup\ryujinx_switch\system\save\8000000000000000\ExtraData1.conflict-bryan-decky-1772341618) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\savedata3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\savedata3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\0\screenshot3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\0\screenshot3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\savedata3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\savedata3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000006\1\screenshot3.bin  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000006\1\screenshot3.bin) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\0\userdata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\0\userdata.dat) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000007\1\userdata.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000007\1\userdata.dat) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData0  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData0) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\ExtraData1  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\ExtraData1) [src newer]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp055a0050030da90318100000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp055a0050030da90318100000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp065b005003028b7a7e000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp065b005003028b7a7e000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp075c005003045f8939000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp075c005003045f8939000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp085d00500300f9c830a00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp085d00500300f9c830a00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp095e005003030e99ffa00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp095e005003030e99ffa00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0a3000500301f66917c00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0a3000500301f66917c00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp0b3f005003011a755eb00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp0b3f005003011a755eb00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp164b0050030749f024c00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp164b0050030749f024c00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp174c005003075ae3cdc00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp174c005003075ae3cdc00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp184d00500302bb7d02a00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp184d00500302bb7d02a00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp194e00500301a42e38200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp194e00500301a42e38200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1a5800500302f3345b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1a5800500302f3345b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\0\rp1b59005003003a5f43400000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\0\rp1b59005003003a5f43400000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp055a0050030da90318100000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp055a0050030da90318100000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp065b005003028b7a7e000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp065b005003028b7a7e000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp075c005003045f8939000000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp075c005003045f8939000000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp085d00500300f9c830a00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp085d00500300f9c830a00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp095e005003030e99ffa00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp095e005003030e99ffa00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0a3000500301f66917c00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0a3000500301f66917c00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp0b3f005003011a755eb00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp0b3f005003011a755eb00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp164b0050030749f024c00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp164b0050030749f024c00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp174c005003075ae3cdc00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp174c005003075ae3cdc00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp184d00500302bb7d02a00000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp184d00500302bb7d02a00000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp194e00500301a42e38200000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp194e00500301a42e38200000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1a5800500302f3345b800000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1a5800500302f3345b800000.dat) [new file]
+  -> C:\Users\B\AppData\Roaming\Ryujinx\bis\user\save\0000000000000008\1\rp1b59005003003a5f43400000.dat  (from E:\saves_backup\ryujinx_switch\user\save\0000000000000008\1\rp1b59005003003a5f43400000.dat) [new file]
+  Done: 42 file(s) copied/updated.
+
+All done in 70.6 seconds.

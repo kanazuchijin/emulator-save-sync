@@ -56,12 +56,12 @@ import time
 def get_central_nas_root() -> Path:
     """
     Return the central NAS save root for this OS. For example:
-      - Windows: E:\saves_backup
+      - Windows: L:\saves_backup
       - Linux/Steam Deck: /mnt/nasemulation/saves_backup
     """
     system = platform.system().lower()
     if system == "windows":
-        return Path(r"E:\saves_backup")
+        return Path(r"L:\saves_backup")
     else:
         return Path("/mnt/nasemulation/saves_backup")
 
